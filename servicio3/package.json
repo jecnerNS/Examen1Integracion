@@ -1,0 +1,16 @@
+{
+    "name": "servicio3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.11.15"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Ronaldo Albornoz",
+    "license": "ISC"
+  }
+  
